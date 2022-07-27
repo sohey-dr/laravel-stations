@@ -161,6 +161,8 @@ scoop install git nodejs-lts yarn
 
 9. 最後に `docker compose exec php-container php artisan migrate:fresh --seed` を実行します。
 
+
+
 # データベースの中身を確認したい場合
 
 1. http://localhost:58080/ にアクセスする
